@@ -1,0 +1,2 @@
+c:\users\xox\documents\visual studio 2013\Projects\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\Xox\Source\Repos\.NetEchoTool\EchoServer\bin\Debug\EchoServer.exe.config
